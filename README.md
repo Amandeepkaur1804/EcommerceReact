@@ -39,14 +39,22 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
+# Ecommerce-react-app
+
 This repository contains the source code for an eCommerce website created with React JS. The website includes several features such as showcasing trending products, categorizing items for men, women, and kids, providing detailed product pages, a shopping cart, and a user authentication system for login and registration.
 
-Features
+# Features
+
 Home Page: Displays trending products, an offer banner, and a newsletter subscription form.
+
 Product Pages: Separate pages for men's, women's, and kids' categories, each showcasing a list of products.
+
 Single Product Page: Includes a detailed view with a product image gallery, pricing, description, and related product recommendations.
+
 Shopping Cart Page: Shows the products added to the cart and allows users to review and manage their cart.
+
 Login/Register Page: Allows users to create an account or log in to the website.
+
 
 Login Page 
 ![Screenshot (78)](https://github.com/Amandeepkaur1804/EcommerceReact/assets/107187322/43689dd4-0e15-4c7d-87fb-92fb723482d6)
